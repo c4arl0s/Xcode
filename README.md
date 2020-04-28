@@ -3,7 +3,7 @@ All Xcode tricks that helps me to improve my development knowledge.
 
 1. [Get a particular object on a Collection (specially in mac apps]()
 
-# 1. [Get a particular object on a Collection (specially in mac apps]()
+# 1. [Get a particular object on a Collection (specially in mac apps)]()
 
 Ctrl + shift + right Click
 
