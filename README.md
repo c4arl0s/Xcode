@@ -8,6 +8,10 @@
 
 # [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
 
+![Screen Shot 2021-03-20 at 7 14 47](https://user-images.githubusercontent.com/24994818/111870725-f9b6ee80-894b-11eb-94e5-d238ce11dbf9.png)
+![Screen Shot 2021-03-20 at 7 15 05](https://user-images.githubusercontent.com/24994818/111870739-0c312800-894c-11eb-8396-d9a236dda046.png)
+![Screen Shot 2021-03-20 at 7 15 50](https://user-images.githubusercontent.com/24994818/111870748-1d7a3480-894c-11eb-9024-d9b298b5b408.png)
+
 # 1. [Xcode Interface](https://github.com/c4arl0s/Xcode#xcode---content)
 # 2. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#xcode---content)
 # 3. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
