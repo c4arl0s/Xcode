@@ -3,7 +3,7 @@
 # [Xcode - Content](https://github.com/c4arl0s/Xcode#go-back-to-content)
 
 1. [Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
-2. [Xcode file types]()
+2. [Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
 3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#2-keyboard-shorcuts)
 4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#3-xcode-preferences)
 
@@ -22,9 +22,21 @@ The Xcode workspace is divided into five main sections.
 
 Xcode knows how to work with a variety of files that span across multiple programming languages. For now, you will learn about files related to projects written in the Swift language.
 
-At the very top of the project navigator, you will see a file with a tiny blue Xcode icon. Click the file to open it in the editor area. This is the `.xcodeproj` file, which includes all the settings for your project and its targets. Each target is a product that Xcode can build from the project. For now the targets you will build will be executable apps. Later, you may use targets to build frameworks, different versions of a particular app, or versions for different platforms like watchOS or tvOS.
+At the very top of the project navigator, you will see a file with a tiny blue Xcode icon. Click the file to open it in the editor area. This is the `.xcodeproj` file, which includes all the settings for your project and its targets. **Each target is a product that Xcode can build from the project**. For now the targets you will build will be executable apps. Later, you may use targets to build frameworks, different versions of a particular app, or versions for different platforms like watchOS or tvOS.
 
 # 3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#xcode---content)
+
+As you become more proficient with Xcode, you will discover that it is much faster to execute tasks using keyboard shortcuts. Make sure to learn the most common shortcuts right away:
+
+1. Command-B - Build the project.
+2. Command-R - Build and run the project.
+3. Command-/ - Toggle comments on selected rows of code.
+4. Command-[ - Shift the selected code left [command - option - [)
+
+![Screen Shot 2021-03-20 at 7 35 40](https://user-images.githubusercontent.com/24994818/111871322-e5282580-894e-11eb-8595-3bdfde9f8383.png)
+
+![Screen Shot 2021-03-20 at 7 36 31](https://user-images.githubusercontent.com/24994818/111871342-00933080-894f-11eb-8893-b15f39d4d6db.png)
+
 # 4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
 
 All Xcode tricks that helps me to improve my development knowledge.
