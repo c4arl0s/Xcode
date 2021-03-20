@@ -3,8 +3,9 @@
 # [Xcode - Content](https://github.com/c4arl0s/Xcode#go-back-to-content)
 
 1. [Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
-2. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#2-keyboard-shorcuts)
-3. [Xcode Preferences](https://github.com/c4arl0s/Xcode#3-xcode-preferences)
+2. [Xcode file types]()
+3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#2-keyboard-shorcuts)
+4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#3-xcode-preferences)
 
 # [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
 
@@ -17,9 +18,14 @@
 The Xcode workspace is divided into five main sections.
 
 ![Screen Shot 2021-03-20 at 7 19 51](https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png)
+# 2. [Xcode file types]()
 
-# 2. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#xcode---content)
-# 3. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
+Xcode knows how to work with a variety of files that span across multiple programming languages. For now, you will learn about files related to projects written in the Swift language.
+
+At the very top of the project navigator, you will see a file with a tiny blue Xcode icon. Click the file to open it in the editor area. This is the `.xcodeproj` file, which includes all the settings for your project and its targets. Each target is a product that Xcode can build from the project. For now the targets you will build will be executable apps. Later, you may use targets to build frameworks, different versions of a particular app, or versions for different platforms like watchOS or tvOS.
+
+# 3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#xcode---content)
+# 4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
 
 All Xcode tricks that helps me to improve my development knowledge.
 
