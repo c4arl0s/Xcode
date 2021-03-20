@@ -13,9 +13,13 @@
 ![Screen Shot 2021-03-20 at 7 15 50](https://user-images.githubusercontent.com/24994818/111870748-1d7a3480-894c-11eb-9024-d9b298b5b408.png)
 
 # 1. [Xcode Interface](https://github.com/c4arl0s/Xcode#xcode---content)
+
+The Xcode workspace is divided into five main sections.
+
+![Screen Shot 2021-03-20 at 7 19 51](https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png)
+
 # 2. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#xcode---content)
 # 3. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
-
 
 All Xcode tricks that helps me to improve my development knowledge.
 
