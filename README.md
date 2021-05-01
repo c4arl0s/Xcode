@@ -4,8 +4,8 @@
 
 1. [Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
 2. [Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
-3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#2-keyboard-shorcuts)
-4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#3-xcode-preferences)
+3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
+4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#4-xcode-preferences)
 
 # [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
 
@@ -18,7 +18,7 @@
 The Xcode workspace is divided into five main sections.
 
 ![Screen Shot 2021-03-20 at 7 19 51](https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png)
-# 2. [Xcode file types]()
+# 2. [Xcode file types](https://github.com/c4arl0s/Xcode#xcode---content)
 
 Xcode knows how to work with a variety of files that span across multiple programming languages. For now, you will learn about files related to projects written in the Swift language.
 
@@ -31,7 +31,7 @@ As you become more proficient with Xcode, you will discover that it is much fast
 1. Command-B - Build the project.
 2. Command-R - Build and run the project.
 3. Command-/ - Toggle comments on selected rows of code.
-4. Command-[ - Shift the selected code left [command - option - [)
+4. Command-\[ - Shift the selected code left [command - option - \[)
 
 ![Screen Shot 2021-03-20 at 7 35 40](https://user-images.githubusercontent.com/24994818/111871322-e5282580-894e-11eb-8595-3bdfde9f8383.png)
 
@@ -39,13 +39,26 @@ As you become more proficient with Xcode, you will discover that it is much fast
 
 # 4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#xcode---content)
 
+Xcode is a powerful tool with many options. As you work with Xcode you will learn more about what it can do and how you can customize it to work how you want it to. Check out the Xcode Preferences by navigating to Xcode -> Preferences in the menu bar. You can use the Preferences to add developer accounts, customize navigation or fonts, or choose certain behaviors when text editing and more.
+
+Open up the Xcode Preferences and navigate to the Fonts & Colors menu.
+
+![Screen Shot 2021-03-20 at 7 44 47](https://user-images.githubusercontent.com/24994818/111871521-2b31b900-8950-11eb-9bd7-6bb32599bc95.png)
+
+You can choose a new theme, or set of colors and fonts, by selecting different options in the list on the left. The Civic theme is great if you prefer a dark editing mode, and the Presentation or Presentation Large options are perfect when presenting code to a group.
+
+You can read much more about Xcode and its various tools in the Xcode Help Documentation, which you can open in Xcode by choosing help -> Xcode help in the menu bar.
+
+
+# More
+
 All Xcode tricks that helps me to improve my development knowledge.
 
-1. [Get a particular object on a Collection (specially in mac apps]()
+1. Get a particular object on a Collection (specially in mac apps
 
 # 1. [Get a particular object on a Collection (specially in mac apps)]()
 
-Ctrl + shift + right Click. [click to remember where you apply it](https://github.com/c4arl0s/28YourFirstCocoaApplication#select-an-particular-object-ctrlshift-right-click)
+Ctrl + shift + right Click. [click to remember where you use it](https://github.com/c4arl0s/28YourFirstCocoaApplication#select-an-particular-object-ctrlshift-right-click)
 
 ![Screen Shot 2020-04-28 at 17 50 12](https://user-images.githubusercontent.com/24994818/80546458-4af87100-897b-11ea-8c03-1d3577776e44.png)
 ![Screen Shot 2020-04-28 at 17 50 31](https://user-images.githubusercontent.com/24994818/80546465-4d5acb00-897b-11ea-85fd-ca5c236b468b.png)
