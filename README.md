@@ -2,10 +2,10 @@
 
 # [Xcode - Content](https://github.com/c4arl0s/Xcode#go-back-to-content)
 
-1. [Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
-2. [Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
-3. [Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
-4. [Xcode Preferences](https://github.com/c4arl0s/Xcode#4-xcode-preferences)
+1. [x] [1. Xcode Interface](https://github.com/c4arl0s/Xcode#1-xcode-interface)
+2. [x] [2. Xcode file types](https://github.com/c4arl0s/Xcode#2-xcode-file-types)
+3. [x] [3. Keyboard Shorcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
+4. [x] [4. Xcode Preferences](https://github.com/c4arl0s/Xcode#4-xcode-preferences)
 
 # [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
 
@@ -18,6 +18,7 @@
 The Xcode workspace is divided into five main sections.
 
 ![Screen Shot 2021-03-20 at 7 19 51](https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png)
+
 # 2. [Xcode file types](https://github.com/c4arl0s/Xcode#xcode---content)
 
 Xcode knows how to work with a variety of files that span across multiple programming languages. For now, you will learn about files related to projects written in the Swift language.
