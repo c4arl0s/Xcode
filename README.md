@@ -29,10 +29,10 @@ At the very top of the project navigator, you will see a file with a tiny blue X
 
 As you become more proficient with Xcode, you will discover that it is much faster to execute tasks using keyboard shortcuts. Make sure to learn the most common shortcuts right away:
 
-1. Command-B - Build the project.
-2. Command-R - Build and run the project.
-3. Command-/ - Toggle comments on selected rows of code.
-4. Command-\[ - Shift the selected code left [command - option - \[)
+1. Command-ALT-B - Build the project.
+2. Command-ALT-R - Build and run the project.
+3. Command-ALT-/ - Toggle comments on selected rows of code.
+4. Command-ALT-\[ - Shift the selected code left [command - option - \[)
 
 ![Screen Shot 2021-03-20 at 7 35 40](https://user-images.githubusercontent.com/24994818/111871322-e5282580-894e-11eb-8595-3bdfde9f8383.png)
 
