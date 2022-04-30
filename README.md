@@ -19,6 +19,8 @@ The Xcode workspace is divided into five main sections.
 
 ![Screen Shot 2021-03-20 at 7 19 51](https://user-images.githubusercontent.com/24994818/111870934-1f90c300-894d-11eb-9e3c-4ffe158cfd99.png)
 
+<img width="1136" alt="Screen Shot 2022-04-29 at 11 49 09 p m" src="https://user-images.githubusercontent.com/24994818/166091560-5c5ebeb1-0db8-4b8a-94d5-ff14a705834a.png">
+
 # 2. [Xcode file types](https://github.com/c4arl0s/Xcode#xcode---content)
 
 Xcode knows how to work with a variety of files that span across multiple programming languages. For now, you will learn about files related to projects written in the Swift language.
